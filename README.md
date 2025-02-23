@@ -1,17 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Password Generator
 
-## Getting Started
+## Installation
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Ensure that you have **Node.js** installed. If not, you can download and install it from [here](https://nodejs.org/).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Steps to Install
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/password-generator.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd password-generator
+
+3.  **Install the dependencies: Run the following command to install all the required dependencies listed in the package.json**: 
+    ```bash
+    npm install
+
+4. **Run the development server: Once the dependencies are installed, you can start the development server by running**:
+    ```bash
+    npm run dev
